@@ -1,8 +1,13 @@
 class Dog
 
-#Define #bark instance methods
+#Define #bark instance method
 def bark
   puts "Woof!"
+end
+
+#Define #sit instance method
+def sit
+  puts "The Dog is sitting"
 end
 
 end
